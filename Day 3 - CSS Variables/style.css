@@ -1,3 +1,11 @@
+:root {
+  /* default values for our variables */
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
+}
+/* now we can go ahead and used these variables */
+
 body {
   text-align: center;
   background: #193549;
